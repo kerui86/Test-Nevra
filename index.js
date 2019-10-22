@@ -9,7 +9,7 @@ bot.on('ready', () => { console.log ('Estoy de vuelta, ¿me echabas de menos?');
 bot.user.setPresence( {
        status: "online",
        game: {
-           name: "Eldarya",
+           name: "50 Sombras de Nevra",
            type: "PLAYING"
        }
 	});
