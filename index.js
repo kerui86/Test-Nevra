@@ -99,4 +99,4 @@ bot.on('message', (message) => {
 
 
 
-bot.login('NDUzMjk5NzQ5OTU3NjY0Nzc4.XaspNQ.oNL8GyKvdR4-TY5qFAxxRwgzWjA')
+bot.login(process.env.token)
