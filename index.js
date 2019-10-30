@@ -78,7 +78,7 @@ bot.on('message', (message) => {
 	}
 
 	if (message.content ===`pre`) {
-	message.channel.send('Las que siguen mi ruta o tienen entre 9000 y 10000 puntos, iros preparando. Atacais en unos minutos');
+	message.channel.send('<@&635788465044193292> Mis sangrientas sombras preparaos para derramar la sangre del enemigo');
 	}
 	if (message.content ===`ata`) {
 	message.channel.send('<@&635788465044193292> Hora de demostrar quienes son las mejores, atacar con todo :muscle:');
